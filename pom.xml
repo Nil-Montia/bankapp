@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.qa</groupId>
-  <artifactId>Doit</artifactId>
-  <version>0.5</version>
+  <artifactId>Banking</artifactId>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>Doit</name>
+  <name>Banking</name>
 
 
   <properties>
